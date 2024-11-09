@@ -1,0 +1,66 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: ;
+  background-color: ;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+button {
+  cursor: pointer;
+}
+
+container {
+  max-width: 1140px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+/*header*/
+.header-container {
+  display: flex;
+}
+
+.header-list-btn {
+  display: flex;
+}
+
+.header-btn {
+}
+
+.logo {
+  font-weight: 700px;
+  font-size: 30px;
+}
+
+.navigation {
+}
+
+nav-list {
+}
+
+nav-link {
+}
+
+.hero-wraper {
+  max: width 465px;
+}
+
+.hero-list-btn {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
